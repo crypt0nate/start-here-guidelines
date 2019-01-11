@@ -1,5 +1,4 @@
 # Contributors
--[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
@@ -14,6 +13,8 @@
 -[@Edward2247](https://github.com/Edward2247)
 
 -[@prathu9](https://github.com/prathu9)
+
+-[@crypt0nate](https://github.com/crypt0nate)
 
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 

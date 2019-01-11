@@ -1,4 +1,7 @@
-﻿# start-here-guidelines
+﻿change 1
+change 2
+
+# start-here-guidelines
 Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
 
 ## One rule of this community:
